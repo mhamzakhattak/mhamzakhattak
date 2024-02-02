@@ -9,8 +9,17 @@
   <li><b>Linkedin: </b> <a href="https://www.linkedin.com/in/mhamzakhattak" target="_blank">https://www.linkedin.com/in/mhamzakhattak</a></li>
 </ul>
 
-[ ![Relwarc17](https://www.hackthebox.eu/badge/image/915532)](https://app.hackthebox.com/profile/915532)
- <img src="/tryhackme.png">
+<p align="center">
+  <summary><b>HackTheBox</b>: </summary>
+  <br>
+  [ ![Relwarc17](https://www.hackthebox.eu/badge/image/915532)](https://app.hackthebox.com/profile/915532)
+</p>
+
+ <p align="center">
+  <summary><b>TryHackMe</b>: </summary>
+  <br>
+  <img src="/tryhackme.png" alt="TryHackMe">
+</p>
 
 <h2 align="center">My Github Stats</h2> 
 
