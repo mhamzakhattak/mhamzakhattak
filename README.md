@@ -11,7 +11,9 @@
 
 [ ![Relwarc17](https://www.hackthebox.eu/badge/image/915532)](https://app.hackthebox.com/profile/915532)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/mhamzakhattak.png" alt="TryHackMe">
+'''javascript
+<script src="https://tryhackme.com/badge/787457"></script>
+'''
 
 <h2 align="center">My Github Stats</h2> 
 
