@@ -13,8 +13,7 @@
   <summary><b>HackTheBox</b>: </summary>
   <br>
   </p>
-  [![Relwarc17](https://www.hackthebox.eu/badge/image/915532)](https://app.hackthebox.com/profile/915532)
-
+  <script src="https://www.hackthebox.eu/badge/image/915532"></script>  
 
  <p align="center">
   <summary><b>TryHackMe</b>: </summary>
