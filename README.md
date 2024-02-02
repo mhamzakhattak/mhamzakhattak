@@ -13,7 +13,7 @@
   <summary><b>HackTheBox</b>: </summary>
   <br>
   </p>
-  [ ![Relwarc17](https://www.hackthebox.eu/badge/image/915532)](https://app.hackthebox.com/profile/915532)
+  [![Relwarc17](https://www.hackthebox.eu/badge/image/915532)](https://app.hackthebox.com/profile/915532)
 
 
  <p align="center">
