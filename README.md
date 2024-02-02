@@ -11,7 +11,6 @@
 
 [ ![Relwarc17](https://www.hackthebox.eu/badge/image/915532)](https://app.hackthebox.com/profile/915532)
 
-[ ![Relwarc17](https://tryhackme.com/badge/787457)](https://tryhackme.com/badge/787457)
 
 <h2 align="center">My Github Stats</h2> 
 
