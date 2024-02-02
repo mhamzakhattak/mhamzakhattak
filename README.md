@@ -12,8 +12,9 @@
 <p align="center">
   <summary><b>HackTheBox</b>: </summary>
   <br>
+   <img src="/hackthebox.png" alt="Hackthebox">
   </p>
-  <script src="https://www.hackthebox.eu/badge/image/915532"></script>  
+ 
 
  <p align="center">
   <summary><b>TryHackMe</b>: </summary>
