@@ -19,7 +19,7 @@
  <p align="center">
   <summary><b>TryHackMe</b>: </summary>
   <br>
-  <img src="/logos/tryhackme" alt="TryHackMe">
+  <img src="/logos/tryhackme.png" alt="TryHackMe">
 </p>
 
 <h2 align="center">My Github Stats</h2> 
