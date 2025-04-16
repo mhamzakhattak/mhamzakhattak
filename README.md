@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge"/>
    <img src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&style=for-the-badge&logoColor=white"/>
 </p>
 
 <p align="center">
