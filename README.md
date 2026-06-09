@@ -28,3 +28,7 @@ A journey through code, vulnerabilities, and security, driven by curiosity and t
   <li><b>📈 Linkedin: </b> <a href="https://www.linkedin.com/in/mhamzakhattak" target="_blank">mhamzakhattak</a></li>
 </ul>
 
+<h2 align="center"> 📈 Quick Stats </h2> 
+<p align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhamzakhattak&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="My stats">
+</p>
