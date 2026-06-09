@@ -13,6 +13,7 @@ A journey through code, vulnerabilities, and security, driven by curiosity and t
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="logos/ecpptv2.png" alt="eCPPTv2" width="120" style="margin: 10px;">
+  <img src="logos/ewptx.png" alt="eWPTXv3" width="120" style="margin: 10px;">
   <img src="logos/CEH.png" alt="CEH" height="100" style="margin: 10px;">
   <img src="logos/nse.png" alt="CEH" height="100" style="margin: 10px;">
    <img src="logos/aws.png" alt="CEH" height="100" style="margin: 10px;">
