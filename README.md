@@ -28,11 +28,3 @@ A journey through code, vulnerabilities, and security, driven by curiosity and t
   <li><b>📈 Linkedin: </b> <a href="https://www.linkedin.com/in/mhamzakhattak" target="_blank">mhamzakhattak</a></li>
 </ul>
 
-<h2 align="center">My Github Stats</h2> 
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mhamzakhattak&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="My stats">
-  <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mhamzakhattak&hide=css,java,html&theme=tokyonight">
-
-</p>
